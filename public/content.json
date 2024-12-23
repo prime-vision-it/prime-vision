@@ -23,7 +23,7 @@
             "name": "Contact",
             "id": "#contact",
             "description": [
-                "primevisiontechnologies@gmail.com"
+                "primevisionittechnologies@gmail.com"
             ]
         },
         {
@@ -69,7 +69,7 @@
         },
         "email": {
             "icon": "images/email-icon.jfif",
-            "address": "primevisiontechnologies@gmail.com"
+            "address": "primevisionittechnologies@gmail.com"
         },
         "backgroundImage": "images/contact-background.jfif"
     },
