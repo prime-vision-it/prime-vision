@@ -1,5 +1,5 @@
 {
-  "name": "miroku-consultancy",
+  "name": "prime-vision",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://www.mirokuconsultancyservices.com"
+  "homepage": "https://www.primevisiontechnologies.com"
 }
