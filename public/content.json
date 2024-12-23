@@ -1,0 +1,194 @@
+{
+    "navItems": [
+        {
+            "name": "Industries",
+            "id": "#industries",
+            "description": [
+                "Ecommerce",
+                "ERP",
+                "Social"
+            ]
+        },
+        {
+            "name": "Services",
+            "id": "#services",
+            "description": [
+                "Custom Software Development",
+                "Cloud Solutions",
+                "IT Strategy and Consulting",
+                "Agile Transformation"
+            ]
+        },
+        {
+            "name": "Contact",
+            "id": "#contact",
+            "description": [
+                "primevisiontechnologies@gmail.com"
+            ]
+        },
+        {
+            "name": "Connect",
+            "id": "#SubmitForm",
+            "description": [
+                "Query with us"
+            ]
+        }
+    ],
+    "industries": [
+    {
+        "name": "SEO",
+        "description": "Search Engine Optimization (SEO) strategies to improve online visibility and organic search rankings.",
+        "details": "We offer comprehensive SEO solutions, including keyword research, on-page optimization, link building, and content strategies, to help businesses enhance their search engine rankings and drive organic traffic.",
+        "image": "images/seo.jfif"
+    },
+    {
+        "name": "PPC Advertising",
+        "description": "Pay-Per-Click (PPC) campaigns designed to drive immediate traffic through targeted ads.",
+        "details": "Our PPC advertising services focus on creating effective campaigns for Google Ads, Bing Ads, and social media platforms, helping businesses increase their online presence and generate high-quality leads quickly.",
+        "image": "images/ppc.jfif"
+    },
+    {
+        "name": "Content Marketing",
+        "description": "Content-driven strategies to engage audiences and enhance brand awareness.",
+        "details": "We create high-quality content marketing strategies that include blog posts, videos, infographics, and social media content, aimed at educating audiences and driving engagement to boost brand visibility.",
+        "image": "images/content-marketing.jfif"
+    },
+    {
+        "name": "Social Media Marketing",
+        "description": "Leveraging social platforms to build a brand’s presence and drive user engagement.",
+        "details": "Our social media marketing services focus on creating tailored strategies for platforms like Facebook, Instagram, LinkedIn, and Twitter, helping businesses engage with their audience, increase brand awareness, and drive conversions.",
+        "image": "images/social-media-marketing.jfif"
+    }
+    ],
+    "contact": {
+        "heading": "Contact Us",
+        "description": "If you're interested in our services, please reach out:",
+        "office": {
+            "title": "Registered Office:",
+            "address": "D-89 Lane -07 Ganesh nagar, Delhi, India - 110092"
+        },
+        "email": {
+            "icon": "images/email-icon.jfif",
+            "address": "primevisiontechnologies@gmail.com"
+        },
+        "backgroundImage": "images/contact-background.jfif"
+    },
+    "about": {
+        "heading": "About Us",
+        "description": [
+            "Welcome to PRIME VISION TECHNOLOGIES, where we provide expert software solutions tailored to your business needs. Our team of experienced professionals is dedicated to helping you succeed in the ever-evolving tech landscape.",
+            "We believe in building strong partnerships with our clients and delivering high-quality results that exceed expectations. Our services include custom software development, IT strategy consulting, and agile transformations."
+        ],
+        "teamImage": "images/team.jfif",
+        "office": {
+            "title": "Our Office",
+            "subtitle": "Where innovation meets collaboration.",
+            "description": "Our office is designed to foster creativity and teamwork, equipped with state-of-the-art technology and flexible workspaces. We believe that a collaborative environment enhances productivity and encourages innovative thinking. From open meeting areas to quiet zones, our office caters to various working styles, ensuring our team can thrive in their projects. Join us in a space where ideas come to life and partnerships grow.",
+            "image": "images/office.jfif"
+        }
+    },
+    "services": [
+        {
+            "title": "Custom Software Development",
+            "description": "Tailored software solutions to meet your business needs.",
+            "image": "images/custom-software.jfif"
+        },
+        {
+            "title": "Cloud Solutions",
+            "description": "Flexible and scalable cloud services for your organization.",
+            "image": "images/cloud-solutions.jfif"
+        },
+        {
+            "title": "IT Strategy and Consulting",
+            "description": "Expert advice to optimize your IT infrastructure.",
+            "image": "images/it-strategy.jfif"
+        },
+        {
+            "title": "Agile Transformation",
+            "description": "Transforming your processes for better efficiency and adaptability.",
+            "image": "images/agile-transformation.jfif"
+        }
+    ],
+    "academics": [
+        {
+            "title": "Language",
+            "description": "We provide expert foreign language services in Japanese, Russian, Korean, German, Spanish, French, and more.",
+            "image": "images/classes.jpeg"
+        },
+        {
+            "title": "Interpretation",
+            "description": "From translation, interpretation, video editing, subtitling, to localization and transcription, our skilled linguists ensure accuracy and cultural relevance in every project.",
+            "image": "images/interpretation.jpeg"
+        },
+        {
+            "title": "Seminar",
+            "description": "Whether for business, media, or technical needs, we deliver high-quality, timely, and confidential solutions tailored to your audience.",
+            "image": "images/seminar.jpg"
+        },
+        {
+            "title": "Visa to abroad",
+            "description": "Connect with us to expand your reach and make your message resonate worldwide.",
+            "image": "images/visaToJapan.jpg"
+        }
+    ],
+    "solutions": [
+        {
+            "title": "Web Applications",
+            "description": "Custom web applications tailored to your business needs, enhancing productivity and efficiency.",
+            "image": "images/web-app.jfif"
+        },
+        {
+            "title": "Hybrid Mobile Applications",
+            "description": "Cross-platform mobile applications that deliver a native experience on both Android and iOS.",
+            "image": "images/mobile-app.jfif"
+        },
+        {
+            "title": "REST APIs",
+            "description": "Robust and secure APIs that allow seamless integration with various systems and services.",
+            "image": "images/api.jfif"
+        },
+        {
+            "title": "Cloud Solutions",
+            "description": "Scalable cloud services leveraging platforms like AWS and Azure to support your business growth.",
+            "image": "images/cloud.jfif"
+        }
+    ],
+    "submitForm": {
+        "heading": "Ask Us",
+        "description": "We would love to hear from you! Please fill out the form below and we will get back to you as soon as possible."
+    },
+    "training": {
+        "heading": "Our Training Programs",
+        "programs": [
+            {
+                "title": "Dot Net",
+                "description": "This course covers the fundamentals of .NET programming, including C#, ASP.NET, and more.",
+                "duration": "6 weeks",
+                "prerequisites": "Basic programming knowledge is recommended.",
+                "image": "images/dotnet.jfif"
+            },
+            {
+                "title": "React",
+                "description": "Learn to build interactive user interfaces with React, a powerful JavaScript library.",
+                "duration": "4 weeks",
+                "prerequisites": "Familiarity with JavaScript is required.",
+                "image": "images/react.jfif"
+            },
+            {
+                "title": "React Native",
+                "description": "Develop mobile applications using React Native for a native experience on both iOS and Android.",
+                "duration": "5 weeks",
+                "prerequisites": "Basic understanding of React is needed.",
+                "image": "images/react-native.png"
+            },
+            {
+                "title": "Python",
+                "description": "Comprehensive introduction to Python programming, covering data structures, algorithms, and more.",
+                "duration": "8 weeks",
+                "prerequisites": "No prior programming experience required.",
+                "image": "images/python.jfif"
+            }
+            
+        ]
+    }
+}

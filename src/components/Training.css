@@ -1,0 +1,48 @@
+.training-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.training-list {
+    display: flex;
+    flex-wrap: nowrap; /* Ensures all items stay in a single row */
+    /* overflow-x: auto;  */
+    gap: 20px; /* Space between items */
+}
+
+.training-item {
+    min-width: 250px; /* Minimum width for each training item */
+    background-color: #f9f9f9; /* Background color for items */
+    border: 1px solid #ddd; /* Optional border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Padding inside the items */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s; /* Animation on hover */
+}
+
+.training-item:hover {
+    transform: scale(1.05); /* Slightly enlarge item on hover */
+}
+
+.training-image {
+    width: 100%; /* Make images responsive */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Rounded corners for images */
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .training-list {
+        flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+    }
+
+    .training-item {
+        min-width: calc(50% - 20px); /* Adjust width for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .training-item {
+        min-width: calc(100% - 20px); /* Full width on very small screens */
+    }
+}
