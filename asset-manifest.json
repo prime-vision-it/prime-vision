@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b1b1668.css",
-    "main.js": "/static/js/main.47969ac4.js",
-    "static/js/453.a5a945dd.chunk.js": "/static/js/453.a5a945dd.chunk.js",
-    "static/media/logo.jpeg": "/static/media/logo.e63a45248448cc61d10d.jpeg",
-    "index.html": "/index.html",
-    "main.5b1b1668.css.map": "/static/css/main.5b1b1668.css.map",
-    "main.47969ac4.js.map": "/static/js/main.47969ac4.js.map",
-    "453.a5a945dd.chunk.js.map": "/static/js/453.a5a945dd.chunk.js.map"
+    "main.css": "/prime-vision/static/css/main.5b1b1668.css",
+    "main.js": "/prime-vision/static/js/main.c9dd6c1f.js",
+    "static/js/453.a5a945dd.chunk.js": "/prime-vision/static/js/453.a5a945dd.chunk.js",
+    "static/media/logo.jpeg": "/prime-vision/static/media/logo.e63a45248448cc61d10d.jpeg",
+    "index.html": "/prime-vision/index.html",
+    "main.5b1b1668.css.map": "/prime-vision/static/css/main.5b1b1668.css.map",
+    "main.c9dd6c1f.js.map": "/prime-vision/static/js/main.c9dd6c1f.js.map",
+    "453.a5a945dd.chunk.js.map": "/prime-vision/static/js/453.a5a945dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1b1668.css",
-    "static/js/main.47969ac4.js"
+    "static/js/main.c9dd6c1f.js"
   ]
 }
